@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "test2"
+version = "1.0.0"
+description = "test"
+authors = ["Vova <youremail@example.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11"
+fastapi = ">=0.115.6,<0.116.0"
+uvicorn = ">=0.34.0,<0.35.0"
+
+[tool.poetry.packages]
+# If your Python code resides in the src directory, make sure the package includes it
+[[tool.poetry.packages]]
+include = "src"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
