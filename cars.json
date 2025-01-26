@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Toyota Camry",
+        "price": 30000,
+        "year": 2019,
+        "color": "white",
+        "list_founder": [
+            "vova"
+        ],
+        "vin": 1
+    },
+    {
+        "name": "Honda Accord",
+        "price": 28000,
+        "year": 2017,
+        "color": "red",
+        "list_founder": [],
+        "vin": 2
+    },
+    {
+        "name": "Ford Mustang",
+        "price": 45000,
+        "year": 2016,
+        "color": "blue",
+        "list_founder": [],
+        "vin": 3
+    },
+    {
+        "name": "Tesla Model 3",
+        "price": 40000,
+        "year": 2019,
+        "color": "black",
+        "list_founder": [],
+        "vin": 4
+    },
+    {
+        "name": "BMW 3 Series",
+        "price": 42000,
+        "year": 2022,
+        "color": "green",
+        "list_founder": [],
+        "vin": 5
+    },
+    {
+        "name": "Mercdes S-class",
+        "price": 77000,
+        "year": 2022,
+        "color": "White",
+        "list_founder": [
+            "vova",
+            "vova",
+            "vova"
+        ],
+        "vin": 7
+    }
+]
